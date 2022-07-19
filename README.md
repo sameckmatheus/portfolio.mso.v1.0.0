@@ -5,6 +5,7 @@
 <div align="justify">
   <h3>O que é uma hero section?</h3>
   <p>Como a primeira coisa que as pessoas veem quando visitam seu site, uma seção hero é a área que aparece imediatamente na tela sob seu logotipo e menu.</p>
+  <img src="images/readme-1.png">
 </div>
 
 <div align="justify">
