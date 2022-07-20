@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MyPortfolio</h1>
+  <h1>MyPortfolio - Hero Section</h1>
 </div>
 
 <div align="justify">
