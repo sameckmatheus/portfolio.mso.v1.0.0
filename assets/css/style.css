@@ -206,17 +206,17 @@ h6 {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #2487ce;
+  background: #4324ce;
   padding: 8px 20px;
   margin-left: 30px;
-  border-radius: 4px;
+  border-radius: 10px;
   color: #fff;
 }
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #3194db;
+  background: #ff008c;
 }
 
 .navbar .dropdown ul {
@@ -501,7 +501,7 @@ h6 {
 }
 
 #hero .icon-box:hover .title a {
-  color: #610035;   
+  color: #610035;
 }
 
 @media (min-width: 1024px) {
