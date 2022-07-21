@@ -406,7 +406,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(119, 0, 255, 0.288);
+  background: #7700ff49;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -440,15 +440,16 @@ h6 {
   letter-spacing: 0.5px;
   display: inline-block;
   padding: 14px 50px;
-  border-radius: 5px;
+  border-radius: 12px;
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #2487ce;
+  background: #4324ce;
 }
 
 #hero .btn-get-started:hover {
-  background: #3194db;
+  background: #ff008c;
+  transform: scale(1.05);
 }
 
 #hero .icon-boxes {
@@ -459,7 +460,7 @@ h6 {
   padding: 50px 30px;
   position: relative;
   overflow: hidden;
-  background: #fff;
+  background: #4324ce;
   box-shadow: 0 0 29px 0 rgba(18, 66, 101, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 30px;
@@ -473,7 +474,7 @@ h6 {
 }
 
 #hero .icon-box .title a {
-  color: #124265;
+  color: #ffffff;
   transition: 0.3s;
 }
 
@@ -481,6 +482,7 @@ h6 {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
+  color: #ccc;
 }
 
 #hero .icon-box .icon {
@@ -490,15 +492,16 @@ h6 {
   transition: all 0.3s ease-in-out;
   font-size: 36px;
   line-height: 1;
-  color: #2487ce;
+  color: #fff;
 }
 
 #hero .icon-box:hover {
-  transform: scale(1.08);
+  background: #ff008c;
+  transform: scale(1.05);
 }
 
 #hero .icon-box:hover .title a {
-  color: #2487ce;
+  color: #610035;   
 }
 
 @media (min-width: 1024px) {
